@@ -1,0 +1,7 @@
+junse<-c(2,0,0,0,2,0)
+wolse<-c(2,0,0,0,3,0)
+boochae<-c(1,3,2,3,2,4)
+mibunyang<-c(0,1,0,0,0,0)
+kyungki<-c(0,0,0,1,0,0)
+df1<-data.frame(JUNSE=junse,WOLSE=wolse,BOOCHE=boochae,MIBUNYANG=mibunyang,KYUNGKI=kyungki)
+summary(df1)
